@@ -14,7 +14,7 @@ struct ContentView: View {
             Text("Kaavya")
                 .font(.largeTitle)
                 .fontWeight(.heavy)
-                .foregroundColor(Color.purple)
+                .foregroundColor(Color.pink)
             Image("tennis")
                 .resizable(resizingMode: .stretch)
                 .aspectRatio(contentMode: .fit)
